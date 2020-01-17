@@ -1,0 +1,6 @@
+entrypoint: python main.py
+env: flex
+runtime: python
+env_variables:
+   PYTHONHTTPSVERIFY: 1
+
